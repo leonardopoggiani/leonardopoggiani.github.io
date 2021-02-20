@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Come calcolare l'intervallo di confidenza di un campione"
-date: 02-20-2021
+date: 2021-02-20
 ---
 
 # Come misurare l'intervallo di confidenza di un campione
