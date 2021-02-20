@@ -1,4 +1,4 @@
 name: Leonardo Poggiani
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-exclude: [vendor]
+exclude: vendor
