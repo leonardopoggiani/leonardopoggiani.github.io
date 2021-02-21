@@ -27,3 +27,19 @@ ul.posts li { list-style: none; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+.cv projects{ font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
+.cv projects { font-size: 1.2em; }
+
+#progressBar {
+    width: 100%;
+    background-color: grey;
+  }
+  
+#mark {
+    width: 10%;
+    height: 30px;
+    background-color: #4CAF50;
+    text-align: center; 
+    line-height: 30px;
+    color: white; 
+}
