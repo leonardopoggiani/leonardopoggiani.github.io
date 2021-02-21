@@ -35,10 +35,38 @@ ul.posts li { list-style: none; }
     background-color: grey;
   }
   
-#mark {
+#mark90 {
+    width: 90%;
     height: 30px;
     background-color: #4CAF50;
     text-align: center; 
     line-height: 30px;
     color: white; 
+}
+
+#mark87 {
+  width: 87%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center; 
+  line-height: 30px;
+  color: white; 
+}
+
+#mark94 {
+  width: 94%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center; 
+  line-height: 30px;
+  color: white; 
+}
+
+#mark97 {
+  width: 97%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center; 
+  line-height: 30px;
+  color: white; 
 }
