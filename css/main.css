@@ -24,6 +24,7 @@ ul.posts {
   font-size: 1em; 
   list-style: none;
   padding: 32px;
+  display: inline;
 }
 
 ul.posts li { 
