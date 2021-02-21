@@ -33,15 +33,17 @@ ul.posts li { list-style: none; }
 #progressBar {
     width: 100%;
     background-color: grey;
+    border-radius: 4px;
   }
   
 #mark90 {
-    width: 90%;
-    height: 30px;
-    background-color: #4CAF50;
-    text-align: center; 
-    line-height: 30px;
-    color: white; 
+  width: 90%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center; 
+  line-height: 30px;
+  color: white; 
+  border-radius: 4px;
 }
 
 #mark87 {
@@ -51,6 +53,7 @@ ul.posts li { list-style: none; }
   text-align: center; 
   line-height: 30px;
   color: white; 
+  border-radius: 4px;
 }
 
 #mark94 {
@@ -60,6 +63,7 @@ ul.posts li { list-style: none; }
   text-align: center; 
   line-height: 30px;
   color: white; 
+  border-radius: 4px;
 }
 
 #mark97 {
@@ -69,4 +73,5 @@ ul.posts li { list-style: none; }
   text-align: center; 
   line-height: 30px;
   color: white; 
+  border-radius: 4px;
 }
