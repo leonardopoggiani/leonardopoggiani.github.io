@@ -1,7 +1,7 @@
 body { margin: 60px auto; width: 70%; }
 
 a { text-decoration: none; color: #999; }
-a:hover { text-decoration: underline; }
+a:hover { text-decoration: underline; color: #5c67e7 }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
@@ -18,7 +18,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
-ul.posts li { list-style: none; }
+ul.posts li { list-style: none; border: solid 2px; border-radius: 2px; }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
