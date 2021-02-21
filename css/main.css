@@ -18,7 +18,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
-ul.posts li { list-style: none; border: solid 2px; border-radius: 2px; }
+ul.posts li { list-style: none; border: solid 2px; border-radius: 6px; }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
@@ -33,7 +33,7 @@ ul.posts li { list-style: none; border: solid 2px; border-radius: 2px; }
 #progressBar {
     width: 100%;
     background-color: grey;
-    border-radius: 4px;
+    border-radius: 6px;
   }
   
 #mark90 {
@@ -43,7 +43,7 @@ ul.posts li { list-style: none; border: solid 2px; border-radius: 2px; }
   text-align: center; 
   line-height: 30px;
   color: white; 
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 #mark87 {
@@ -53,7 +53,7 @@ ul.posts li { list-style: none; border: solid 2px; border-radius: 2px; }
   text-align: center; 
   line-height: 30px;
   color: white; 
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 #mark94 {
@@ -63,7 +63,7 @@ ul.posts li { list-style: none; border: solid 2px; border-radius: 2px; }
   text-align: center; 
   line-height: 30px;
   color: white; 
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 #mark97 {
@@ -73,5 +73,5 @@ ul.posts li { list-style: none; border: solid 2px; border-radius: 2px; }
   text-align: center; 
   line-height: 30px;
   color: white; 
-  border-radius: 4px;
+  border-radius: 6px;
 }
