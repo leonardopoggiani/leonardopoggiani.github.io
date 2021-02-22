@@ -30,6 +30,7 @@ ul.posts li {
   border-radius: 6px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
+  padding: 32px 16px;
   border-radius: 5px;
   margin-top: 20px;
   display: inline-block;
