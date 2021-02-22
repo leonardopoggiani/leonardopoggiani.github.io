@@ -60,6 +60,8 @@ ul.posts li {
   margin-right: 20px;
   margin-top: 6px;
   display: inline-block;
+  align-items: center;
+  text-align: center;
 }
 
 a.card {
