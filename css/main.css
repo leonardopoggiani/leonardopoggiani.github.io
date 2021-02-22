@@ -31,9 +31,7 @@ ul.posts li {
   transition: 0.3s;
   padding: 32px 16px;
   border-radius: 5px;
-  display: inline; 
-  margin-right: 20px;
-
+  margin-top: 20px;
 }
 
 ul.posts li:hover {
