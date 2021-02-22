@@ -32,6 +32,7 @@ ul.posts li {
   padding: 32px 16px;
   border-radius: 5px;
   margin-top: 20px;
+  display: inline;
 }
 
 ul.posts li:hover {
