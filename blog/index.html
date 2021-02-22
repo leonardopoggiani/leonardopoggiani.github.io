@@ -11,9 +11,12 @@ title: Poggio's Blog
 <ul class="posts">
 
   {% for post in site.posts %}
-    <a href="{{ post.url }}" title="{{ post.title }}" class="card">
-      <li><span>{{ post.date | date_to_string }}</span> &raquo;  {{ post.title }}</li>
-    </a>
+      <li>
+        <span>
+          {{ post.date | date_to_string }}
+        </span> &raquo;
+        <a href="{{ post.url }}" title="{{ post.title }}" class="card">{{ post.title }}</a>  
+      </li>
   {% endfor %}
     
 </ul>
