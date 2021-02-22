@@ -50,14 +50,15 @@ ul.posts {
 }
 
 ul.posts li { 
-  width: 300px;
+  width: 500px;
   height: 300px;
-  border: solid 6px; 
+  border: solid 4px; 
   border-radius: 6px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
   transition: 0.3s;
   padding: 32px 16px;
   margin-right: 20px;
+  margin-top: 6px;
   display: inline-block;
 }
 
