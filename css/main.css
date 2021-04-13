@@ -87,7 +87,7 @@ img {
 .cv projects { font-size: 1.2em; }
 
 #progressBar {
-    width: 100%;
+    width: 80%;
     background-color: grey;
     border-radius: 8px;
   }
