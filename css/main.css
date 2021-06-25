@@ -76,61 +76,6 @@ img {
   text-align: center;
 }
 
-/* CV */
-.cv { margin: 0px 0px 60px; }
-.cv h1 { font-size: 3em; }
-.cv h2 { font-size: 2em; }
-.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-.cv address, .cv p { font-size: 1.2em; }
-.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
-.cv projects{ font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-.cv projects { font-size: 1.2em; }
-
-#progressBar {
-  width: 100%;
-  background-color: grey;
-  border-radius: 8px;
-}
-  
-#mark90 {
-  width: 90%;
-  height: 30px;
-  background-color: #4CAF50;
-  text-align: center; 
-  line-height: 30px;
-  color: white; 
-  border-radius: 8px;
-}
-
-#mark87 {
-  width: 87%;
-  height: 30px;
-  background-color: #4CAF50;
-  text-align: center; 
-  line-height: 30px;
-  color: white; 
-  border-radius: 8px;
-}
-
-#mark94 {
-  width: 94%;
-  height: 30px;
-  background-color: #4CAF50;
-  text-align: center; 
-  line-height: 30px;
-  color: white; 
-  border-radius: 8px;
-}
-
-#mark97 {
-  width: 97%;
-  height: 30px;
-  background-color: #4CAF50;
-  text-align: center; 
-  line-height: 30px;
-  color: white; 
-  border-radius: 8px;
-}
 /* ********************************************************** */
 
 body{
