@@ -49,8 +49,28 @@ body{
   background-color: #04AA6D;
 }
 
-.btn-toggle {
+body.dark-mode {
+  background-color: #000;
+  color: white;
+  a {
+    color: #000;
+  }
+  button {
+    background-color:white;
+    color: #000;
+  }
+}
 
+body.light-mode {
+  background-color: white;
+  color: #000;
+  a {
+    color: #000;
+  }
+  button {
+    background-color: #000;
+    color: white;
+  }
 }
 
 /* Add responsiveness - will automatically display the navbar vertically instead of horizontally on screens less than 500 pixels */
