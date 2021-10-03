@@ -4,31 +4,33 @@
     <title>{{ page.title }}</title>
     
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-  
+    <link rel="shortcut icon" type="image/x-icon" href="./img/favicon-16x16.png">
+
   </head>
 
 
   <body>
     <nav>
-    <ul>
-      <li><a href="/">Home</a></li>
-      <li><a href="/about">About</a></li>
-      <li><a href="CV_Leonardo_Poggiani.pdf" class="download" title="Download CV as PDF">Download CV</a>			
-      <li><a href="/blog">Blog</a></li>
-    </ul>
+      <ul id="mainMenu">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/cv/CV_Leonardo_Poggiani.pdf" class="download" title="Download CV as PDF"> Download CV </a></li>
+        <li><a href="/notes">Notes</a></li>
+      </ul>
     </nav>
-<div class="container">
+    
+    <div class="container">
 
-  {{ content }}
+      {{ content }}
 
-</div>
+    </div>
   
-  <footer>
-   <ul>
-   <li><a href="mailto:leonardo.poggiani@gmail.com">email</a></li>
-   <li><a href="https://github.com/leonardopoggiani">github.com/leonardopoggiani</a></li>
-   </ul>
-  </footer>
+    <footer>
+      <ul>
+        <li><a href="mailto:leonardo.poggiani@gmail.com">email</a></li>
+        <li><a href="https://github.com/leonardopoggiani">github.com/leonardopoggiani</a></li>
+      </ul>
+    </footer>
   </body>
 
 </html>
