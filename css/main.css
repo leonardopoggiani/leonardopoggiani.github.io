@@ -1,5 +1,5 @@
 body{
-  font-family: 'Helvetica', Arial, Sans-serif;
+  font-family: 'Aldrich', sans-serif;
   color: #404040;
 }
 /* colors */
@@ -7,18 +7,6 @@ body{
 .yellow{background: #ede487;}
 .red{background: #dd5c5c;}
 .blue{background: #5c90dd;}
-
-/* percents */
-.ten{width: 10%;}
-.twenty{width: 20%;}
-.thirty{width: 30%;}
-.forty{width: 40%;}
-.fifty{width: 50%;}
-.sixty{width: 60%;}
-.seventy{width: 70%;}
-.eighty{width: 80%;}
-.ninety{width: 90%;}
-.onehundred{width: 100%;}
 
 .left{float: left;}
 
@@ -34,14 +22,14 @@ body{
   float: left;
   text-align: center;
   padding: 12px;
-  color: white;
+  color: rgb(245, 234, 234);
   text-decoration: none;
   font-size: 17px;
 }
 
 /* Navbar links on mouse-over */
 .navbar a:hover {
-  background-color: #000;
+  background-color: rgb(26, 24, 24);
 }
 
 /* Current/active navbar link */
@@ -50,20 +38,20 @@ body{
 }
 
 body.dark-mode {
-  background-color: #000;
-  color: white;
+  background-color: rgb(22, 21, 21);
+  color: rgb(238, 230, 230);
   a {
     color: #000;
   }
   button {
-    background-color:white;
+    background-color:rgb(235, 225, 225);
     color: #000;
   }
 }
 
 body.light-mode {
-  background-color: white;
-  color: #000;
+  background-color: rgb(233, 225, 225);
+  color: rgb(22, 22, 22);
   a {
     color: #000;
   }
